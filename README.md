@@ -111,25 +111,21 @@ Personal Portfolio
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies 
+<p align="center"> 
+  <!-- Using a reliable alternative mirror for trophies -->
+  <img src="https://github-profile-trophy-one.vercel.app/?username=muhanif-dev&theme=algolia&row=1&column=7"/> 
+</p> 
 
-<p align="center">
+--- 
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhanif-dev&theme=algolia&row=1&column=7"/>
-
+# 📊 GitHub Stats 
+<p align="center"> 
+  <!-- Adding '-fast' to bypass the main crashed instance -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=muhanif-dev&show_icons=true&theme=tokyonight&hide_border=true"/> 
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=muhanif-dev&layout=compact&theme=tokyonight&hide_border=true"/> 
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhanif-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhanif-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
