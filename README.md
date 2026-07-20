@@ -17,37 +17,13 @@ Aspiring Software Engineer • MERN Stack Developer • BS Computer Science Stud
 </p>
 
 ---
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
+I'm **Muhammad Hanif**, a **BS Computer Science student** and an **aspiring Software Engineer** from Pakistan.
 
-```javascript
-const hanif = {
-    location: "Pakistan 🇵🇰",
-    education: "BS Computer Science",
-    role: "Aspiring Software Engineer",
-    currentlyLearning: [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "MERN Stack"
-    ],
-    askMeAbout: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Git",
-        "GitHub"
-    ],
-    hobbies: [
-        "Coding",
-        "Learning",
-        "Building Projects"
-    ]
-}
-```
+I enjoy building modern, responsive, and user-friendly web applications. I'm currently learning the **MERN Stack** and continuously improving my problem-solving and development skills by working on real-world projects.
 
----
+I'm always excited to learn new technologies, collaborate with other developers, and contribute to meaningful projects.
 
 # 🚀 Tech Stack
 
