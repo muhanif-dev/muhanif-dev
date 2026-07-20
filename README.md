@@ -149,18 +149,6 @@ Personal Portfolio
 
 ---
 
-# 🐍 Contribution Snake
-
-> Activate this after setting up GitHub Actions.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/muhanif-dev/muhanif-dev/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 # 💬 Random Dev Quote
 
 <p align="center">
