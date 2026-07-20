@@ -19,12 +19,13 @@ Aspiring Software Engineer • MERN Stack Developer • BS Computer Science Stud
 ---
 ## 👨‍💻 About Me
 
-I'm **Muhammad Hanif**, a **BS Computer Science student** and an **aspiring Software Engineer** from Pakistan.
-
-I enjoy building modern, responsive, and user-friendly web applications. I'm currently learning the **MERN Stack** and continuously improving my problem-solving and development skills by working on real-world projects.
-
-I'm always excited to learn new technologies, collaborate with other developers, and contribute to meaningful projects.
-
+- 🎓 BS Computer Science Student
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning **Node.js, Express.js, MongoDB, and the MERN Stack**
+- 🚀 Passionate about building modern and responsive web applications
+- 📚 Continuously improving my programming and problem-solving skills
+- 🤝 Open to internships, collaboration, and open-source contributions
+- ⚡ Always eager to learn new technologies and take on exciting challenges
 # 🚀 Tech Stack
 
 ### Languages
