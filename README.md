@@ -1,24 +1,253 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hanif</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h1 align="center">
+  Hi 👋, I'm Muhammad Hanif
+</h1>
 
-- 🌱 I’m currently learning **Nginx**
+<h3 align="center">
+Aspiring Software Engineer • MERN Stack Developer • BS Computer Science Student
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://full-stack-portfolio-mu.vercel.app/](https://full-stack-portfolio-mu.vercel.app/)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **muhanif.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hanif" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad hanif" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/daratang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="daratang" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Frontend+Developer;Learning+MERN+Stack;Building+Real+World+Projects;Open+Source+Learner;Always+Learning+New+Things" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=muhanif-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/muhanif-dev?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/muhanif-dev?affiliations=OWNER&style=social" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhanif-dev&show_icons=true&locale=en&layout=compact" alt="muhanif-dev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhanif-dev&" alt="muhanif-dev" /></p>
+# 👨‍💻 About Me
+
+```javascript
+const hanif = {
+    location: "Pakistan 🇵🇰",
+    education: "BS Computer Science",
+    role: "Aspiring Software Engineer",
+    currentlyLearning: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MERN Stack"
+    ],
+    askMeAbout: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git",
+        "GitHub"
+    ],
+    hobbies: [
+        "Coding",
+        "Learning",
+        "Building Projects"
+    ]
+}
+```
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- MERN Stack Development
+- REST APIs
+- Backend Development
+- MongoDB
+- Express.js
+- Clean Code
+- Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master MERN Stack
+- ✅ Build 20+ Projects
+- ✅ Contribute to Open Source
+- ✅ Land a Software Engineering Internship
+- ✅ Become a Full Stack Developer
+
+---
+
+# 📂 Featured Projects
+
+### 🎓 EduVault
+Student Notes Sharing Platform
+
+**Tech Stack**
+
+React • Node.js • Express • MySQL
+
+---
+
+### 🏫 Free Classroom Finder
+
+Find available university classrooms by day and time.
+
+---
+
+### 🛒 Furniture Ecommerce
+
+Responsive Ecommerce Website
+
+---
+
+### 🌦 Weather App
+
+Weather App using API
+
+---
+
+### 💼 Portfolio Website
+
+Personal Portfolio
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhanif-dev&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhanif-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhanif-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=muhanif-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhanif-dev&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Activate this after setting up GitHub Actions.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/muhanif-dev/muhanif-dev/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/muhanif-dev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-hanif-92a127358/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:muhanif.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://full-stack-portfolio-mu.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+```text
+I believe consistency beats talent.
+Every project teaches something new.
+Every bug makes me a better developer.
+```
+
+---
+
+# ⚡ Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+
+From 🇵🇰 with ❤️
+
+</p>
