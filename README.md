@@ -1,6 +1,8 @@
-<h1 align="center">
-  Hi 👋, I'm Muhammad Hanif
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=230&section=header&text=Muhammad%20Hanif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20MERN%20Stack%20Developer&descAlignY=60"/>
+</p>
+
+<h2 align="center">Hi 👋, Welcome to my GitHub Profile</h2>
 
 <h3 align="center">
 Aspiring Software Engineer • MERN Stack Developer • BS Computer Science Student
