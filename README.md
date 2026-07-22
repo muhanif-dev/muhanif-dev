@@ -76,41 +76,6 @@ Aspiring Software Engineer • MERN Stack Developer • BS Computer Science Stud
 
 ---
 
-# 📂 Featured Projects
-
-### 🎓 EduVault
-Student Notes Sharing Platform
-
-**Tech Stack**
-
-React • Node.js • Express • MySQL
-
----
-
-### 🏫 Free Classroom Finder
-
-Find available university classrooms by day and time.
-
----
-
-### 🛒 Furniture Ecommerce
-
-Responsive Ecommerce Website
-
----
-
-### 🌦 Weather App
-
-Weather App using API
-
----
-
-### 💼 Portfolio Website
-
-Personal Portfolio
-
----
-
 # 🏆 GitHub Trophies 
 <p align="center"> 
   <!-- Using a reliable alternative mirror for trophies -->
@@ -203,14 +168,9 @@ Every bug makes me a better developer.
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile ⭐
+ Thanks for visiting my profile 
 
 </h3>
 
-<p align="center">
-
-From 🇵🇰 with ❤️
-
-</p>
 
 ###
