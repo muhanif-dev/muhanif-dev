@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=230&section=header&text=Muhammad%20Hanif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20MERN%20Stack%20Developer&descAlignY=60"/>
+<p align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
+
+</p>
+</p>
 </p>
 
 <h2 align="center">Hi 👋, Welcome to my GitHub Profile</h2>
