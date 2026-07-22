@@ -21,13 +21,29 @@ Aspiring Software Engineer • MERN Stack Developer • BS Computer Science Stud
 ---
 ## 👨‍💻 About Me
 
--  BS Computer Science Student
--  Aspiring Software Engineer
--  Currently learning **Node.js, Express.js, MongoDB, and the MERN Stack**
--  Passionate about building modern and responsive web applications
--  Continuously improving my programming and problem-solving skills
--  Open to internships, collaboration, and open-source contributions
--  Always eager to learn new technologies and take on exciting challenges
+<table>
+<tr>
+
+<td width="65%">
+
+- 🎓 BS Computer Science Student
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning **Node.js, Express.js, MongoDB & MERN Stack**
+- 🚀 Passionate about building modern web applications
+- 📚 Continuously improving my programming and problem-solving skills
+- 🤝 Open to internships and open-source collaboration
+- ⚡ Always eager to learn new technologies
+
+</td>
+
+<td width="35%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+
+</td>
+
+</tr>
+</table>
 # 🚀 Tech Stack
 
 ### Languages
